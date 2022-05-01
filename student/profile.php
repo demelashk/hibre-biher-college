@@ -15,9 +15,9 @@
                 $CourseId=$_POST['CourseId'];} ?>
         <nav class="nav nav-tabs" style="width: 100%">
             <a href="#Outline" data-toggle="tab" class="nav-item nav-link active ">Course Outline</a>
-            <a href="#Grade" data-toggle="tab"  class="nav-item nav-link">Grade</a>
+            <a href="#Grade" data-toggle="tab"  class="nav-item nav-link">Grade Point</a>
             <a href="#Shelfe" data-toggle="tab"  class="nav-item nav-link">Shelfe </a>
-            <a href="#assignment" data-toggle="tab"  class="nav-item nav-link">Assignments </a>
+            <a href="#assignment" data-toggle="tab"  class="nav-item nav-link">Assignments List</a>
             </div>
         </nav>
         <div class="container">
